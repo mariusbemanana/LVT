@@ -1,11 +1,8 @@
-## Purpose 
+## Objectifs 
 
-I decided to make this repo to make it easier for anyone interested in quickly ramping-up a Laravel-Vue-Typescript 
-project. 
+Pour démarrer rapidement un projet laravel-vue-typescript
 
-I tried my best to be very descriptive in each commit text, so if you want to learn more about the set-up process, read the commit messages. 
-
-## What does it offer?
+## Options
 
 - [x] Laravel 5.8
 
@@ -15,7 +12,7 @@ I tried my best to be very descriptive in each commit text, so if you want to le
 
 - [x] Typescript Jest with Vue Test Utils
 
-## Important commands 
+## Pour démarer tous les tests
 
 `yarn test`: Runs all Vue Tests
 
